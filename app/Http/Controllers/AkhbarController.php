@@ -14,7 +14,8 @@ class AkhbarController extends Controller
      */
     public function index()
     {
-        //
+        $news = Akhbar::all();
+        return view("news")->with("news", $news);
     }
 
     /**
@@ -44,9 +45,10 @@ class AkhbarController extends Controller
      * @param  \App\Models\Akhbar  $akhbar
      * @return \Illuminate\Http\Response
      */
-    public function show(Akhbar $akhbar)
+    public function show($id)
     {
-        //
+        $khabar = Akhbar::find($id);
+        return view("makal")->with("khabar", $khabar);
     }
 
     /**

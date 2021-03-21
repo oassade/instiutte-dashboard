@@ -1,0 +1,637 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 22/06/2016 15:06
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-3d-bars-graphic:before { content: "\f100"; }
+.flaticon-abacus:before { content: "\f101"; }
+.flaticon-abc-letters-on-paper-interface-symbol:before { content: "\f102"; }
+.flaticon-abc-letters-on-paper-sheet-with-a-pencil-interface-symbol:before { content: "\f103"; }
+.flaticon-arrows-chart:before { content: "\f104"; }
+.flaticon-arrows-graphic:before { content: "\f105"; }
+.flaticon-ascending-arrow-line-graphic:before { content: "\f106"; }
+.flaticon-backpack-and-abacus:before { content: "\f107"; }
+.flaticon-backpack-variant-design-like-a-portfolio:before { content: "\f108"; }
+.flaticon-bald-professors-talking:before { content: "\f109"; }
+.flaticon-bars-graphic:before { content: "\f10a"; }
+.flaticon-bars-graphic-1:before { content: "\f10b"; }
+.flaticon-bars-graphic-for-class-education:before { content: "\f10c"; }
+.flaticon-basic-mathematics:before { content: "\f10d"; }
+.flaticon-basketball-basket-side-view-for-sport-school-class:before { content: "\f10e"; }
+.flaticon-big-group-of-small-students-with-giant-professor-in-front-of-the-class-talking:before { content: "\f10f"; }
+.flaticon-black-graduation-cap-tool-of-university-student-for-head:before { content: "\f110"; }
+.flaticon-book-and-cd-learning-tools:before { content: "\f111"; }
+.flaticon-book-and-earth-grid-on-top:before { content: "\f112"; }
+.flaticon-book-and-mathematics-materials:before { content: "\f113"; }
+.flaticon-book-and-pen:before { content: "\f114"; }
+.flaticon-book-and-test-tube-with-supporter:before { content: "\f115"; }
+.flaticon-book-from-top-view:before { content: "\f116"; }
+.flaticon-book-in-square:before { content: "\f117"; }
+.flaticon-book-with-marker:before { content: "\f118"; }
+.flaticon-books:before { content: "\f119"; }
+.flaticon-books-and-apple-on-top:before { content: "\f11a"; }
+.flaticon-books-and-clock-with-alarm:before { content: "\f11b"; }
+.flaticon-books-and-sand-clock:before { content: "\f11c"; }
+.flaticon-books-for-study:before { content: "\f11d"; }
+.flaticon-boy-and-girl-students:before { content: "\f11e"; }
+.flaticon-boy-on-computer:before { content: "\f11f"; }
+.flaticon-boy-reading-for-the-class:before { content: "\f120"; }
+.flaticon-boy-reading-study-book-to-learn-the-lesson-for-next-day-class:before { content: "\f121"; }
+.flaticon-boy-standing-in-a-library-with-books-stack:before { content: "\f122"; }
+.flaticon-briefcase-and-tools-for-school:before { content: "\f123"; }
+.flaticon-browser-on-laptop-screen:before { content: "\f124"; }
+.flaticon-calculation-operation-plus-sign:before { content: "\f125"; }
+.flaticon-calculation-operations-minus-sign:before { content: "\f126"; }
+.flaticon-calculator:before { content: "\f127"; }
+.flaticon-calendar-variant-symbol:before { content: "\f128"; }
+.flaticon-cd-circles:before { content: "\f129"; }
+.flaticon-chemistry-book-opened-with-hexagonal-signs:before { content: "\f12a"; }
+.flaticon-chemistry-class-flask-with-liquid-for-experimentation:before { content: "\f12b"; }
+.flaticon-chemistry-class-instructions:before { content: "\f12c"; }
+.flaticon-chemistry-educational-book:before { content: "\f12d"; }
+.flaticon-circular-alarm-clock-tool:before { content: "\f12e"; }
+.flaticon-circular-chart:before { content: "\f12f"; }
+.flaticon-circular-chart-1:before { content: "\f130"; }
+.flaticon-circular-clock-tool:before { content: "\f131"; }
+.flaticon-circular-graphic:before { content: "\f132"; }
+.flaticon-circular-graphic-with-quarter-portion:before { content: "\f133"; }
+.flaticon-circular-simple-graphic-symbol:before { content: "\f134"; }
+.flaticon-class-blackboard-with-eraser:before { content: "\f135"; }
+.flaticon-class-desk-of-teacher-with-a-lamp-and-books-stacks:before { content: "\f136"; }
+.flaticon-class-group:before { content: "\f137"; }
+.flaticon-class-open-door:before { content: "\f138"; }
+.flaticon-class-whiteboard:before { content: "\f139"; }
+.flaticon-classroom-open-door-and-a-wall-clock-behind:before { content: "\f13a"; }
+.flaticon-classroom-with-students-group-and-the-teacher:before { content: "\f13b"; }
+.flaticon-colors-palette:before { content: "\f13c"; }
+.flaticon-compass-and-ruler:before { content: "\f13d"; }
+.flaticon-computer-and-books-studying-tools:before { content: "\f13e"; }
+.flaticon-computer-class-room:before { content: "\f13f"; }
+.flaticon-computer-mouse-tool:before { content: "\f140"; }
+.flaticon-computer-music-education:before { content: "\f141"; }
+.flaticon-computer-with-floating-letters-signs:before { content: "\f142"; }
+.flaticon-computer-with-graduate-cap-on-screen:before { content: "\f143"; }
+.flaticon-connected-students-reading-books:before { content: "\f144"; }
+.flaticon-descendant-graphic:before { content: "\f145"; }
+.flaticon-descending-graphic-chart-line-interface-symbol:before { content: "\f146"; }
+.flaticon-diploma-roll:before { content: "\f147"; }
+.flaticon-earth-globe-with-graduation-cap-on-top:before { content: "\f148"; }
+.flaticon-earth-globe-with-graduation-hat:before { content: "\f149"; }
+.flaticon-education-about-light:before { content: "\f14a"; }
+.flaticon-education-bars-chart:before { content: "\f14b"; }
+.flaticon-education-books-and-graduation-cap-on-top:before { content: "\f14c"; }
+.flaticon-education-certificate:before { content: "\f14d"; }
+.flaticon-education-certificate-1:before { content: "\f14e"; }
+.flaticon-education-certificate-2:before { content: "\f14f"; }
+.flaticon-education-certificate-3:before { content: "\f150"; }
+.flaticon-education-certificate-with-letters-cpe-and-a-ribbon:before { content: "\f151"; }
+.flaticon-education-chart:before { content: "\f152"; }
+.flaticon-education-chart-1:before { content: "\f153"; }
+.flaticon-education-chart-with-horizontal-and-vertical-axes:before { content: "\f154"; }
+.flaticon-education-chart-with-squares:before { content: "\f155"; }
+.flaticon-education-graphic:before { content: "\f156"; }
+.flaticon-education-is-power-words-on-whiteboard:before { content: "\f157"; }
+.flaticon-educational-bars-graphic:before { content: "\f158"; }
+.flaticon-educational-book-and-apple-for-the-teacher:before { content: "\f159"; }
+.flaticon-educational-earth-globe:before { content: "\f15a"; }
+.flaticon-educational-graphic:before { content: "\f15b"; }
+.flaticon-educational-laptop-with-bars-graphic-on-screen:before { content: "\f15c"; }
+.flaticon-educational-line-graphic:before { content: "\f15d"; }
+.flaticon-educative-academy-buildings:before { content: "\f15e"; }
+.flaticon-educative-books:before { content: "\f15f"; }
+.flaticon-educative-books-and-microscope-on-top:before { content: "\f160"; }
+.flaticon-educative-chart:before { content: "\f161"; }
+.flaticon-envelope-back-view-outline:before { content: "\f162"; }
+.flaticon-equal-sign:before { content: "\f163"; }
+.flaticon-eraser-tool-for-school:before { content: "\f164"; }
+.flaticon-f-plus-school-rating-paper-interface-symbol:before { content: "\f165"; }
+.flaticon-fce-education-certificate:before { content: "\f166"; }
+.flaticon-female-and-male-graduates-couple:before { content: "\f167"; }
+.flaticon-female-instructor-giving-a-lecture-standing-at-the-side-of-a-screen:before { content: "\f168"; }
+.flaticon-female-professor-of-economy-with-bars-stocks-graphic-on-clipboard:before { content: "\f169"; }
+.flaticon-female-professor-reading-a-book:before { content: "\f16a"; }
+.flaticon-female-professor-with-eyeglasses-and-economy-circular-graphic-on-a-clipboard:before { content: "\f16b"; }
+.flaticon-female-student-standing-reading-text-paper-sheet:before { content: "\f16c"; }
+.flaticon-female-student-with-portfolio-bag-at-her-side:before { content: "\f16d"; }
+.flaticon-female-teacher-reading-with-eyeglasses:before { content: "\f16e"; }
+.flaticon-female-university-graduate-with-cap-on-head-and-eyeglasses:before { content: "\f16f"; }
+.flaticon-gears-in-bald-head-side-view:before { content: "\f170"; }
+.flaticon-geography-teacher-teaching:before { content: "\f171"; }
+.flaticon-geography-teacher-with-planet-globe:before { content: "\f172"; }
+.flaticon-girl-reading-a-book-for-class:before { content: "\f173"; }
+.flaticon-girl-studying-on-a-laptop:before { content: "\f174"; }
+.flaticon-girl-with-ponytails:before { content: "\f175"; }
+.flaticon-graduate:before { content: "\f176"; }
+.flaticon-graduate-celebrating-with-the-diploma-in-one-hand-and-the-cap-in-the-other:before { content: "\f177"; }
+.flaticon-graduate-on-geography:before { content: "\f178"; }
+.flaticon-graduate-receiving-his-diploma:before { content: "\f179"; }
+.flaticon-graduate-showing-his-diploma:before { content: "\f17a"; }
+.flaticon-graduate-with-cap:before { content: "\f17b"; }
+.flaticon-graduation-cap:before { content: "\f17c"; }
+.flaticon-graduation-cap-and-diploma-with-a-mouse:before { content: "\f17d"; }
+.flaticon-graduation-cap-in-a-square:before { content: "\f17e"; }
+.flaticon-graduation-cap-in-a-square-1:before { content: "\f17f"; }
+.flaticon-graduation-cap-on-a-book-in-vertical-position:before { content: "\f180"; }
+.flaticon-graduation-cap-silhouette:before { content: "\f181"; }
+.flaticon-graduation-cap-silhouette-in-a-square:before { content: "\f182"; }
+.flaticon-graduation-hat:before { content: "\f183"; }
+.flaticon-graduation-hat-and-diploma:before { content: "\f184"; }
+.flaticon-graduation-idea-bulb-and-cap:before { content: "\f185"; }
+.flaticon-graduation-on-history:before { content: "\f186"; }
+.flaticon-graduation-student-cap:before { content: "\f187"; }
+.flaticon-grammar-class-teacher-teaching-pointing-whiteboard-text-lines:before { content: "\f188"; }
+.flaticon-graphic-educative-tool:before { content: "\f189"; }
+.flaticon-group-of-teacher-in-front-of-students-group:before { content: "\f18a"; }
+.flaticon-hand-pointing-up:before { content: "\f18b"; }
+.flaticon-hanging-whiteboard:before { content: "\f18c"; }
+.flaticon-head-side-view-black-silhouette-of-male-bald-shape:before { content: "\f18d"; }
+.flaticon-head-with-gears-education-interface-symbol:before { content: "\f18e"; }
+.flaticon-hierarchical-graphic:before { content: "\f18f"; }
+.flaticon-horizontal-bars-graphic:before { content: "\f190"; }
+.flaticon-instructor-giving-a-lecture-with-circular-graphic-on-screen:before { content: "\f191"; }
+.flaticon-instructor-lecture-with-sceen-projection-tool:before { content: "\f192"; }
+.flaticon-ipad-in-student-hand:before { content: "\f193"; }
+.flaticon-laptop-with-maths-class:before { content: "\f194"; }
+.flaticon-laptop-with-messages:before { content: "\f195"; }
+.flaticon-laptop-with-play-button-on-screen:before { content: "\f196"; }
+.flaticon-laptop-with-text-on-screen:before { content: "\f197"; }
+.flaticon-letters-education-symbol:before { content: "\f198"; }
+.flaticon-library-full-of-books-one-trophy-and-one-apple:before { content: "\f199"; }
+.flaticon-light-bulb:before { content: "\f19a"; }
+.flaticon-light-lamp-and-book-on-a-desk-for-study:before { content: "\f19b"; }
+.flaticon-lightbulb-creative-symbol:before { content: "\f19c"; }
+.flaticon-magnifier-on-laptop-screen:before { content: "\f19d"; }
+.flaticon-male-student-reading:before { content: "\f19e"; }
+.flaticon-man-and-book:before { content: "\f19f"; }
+.flaticon-man-answering-phone-call:before { content: "\f1a0"; }
+.flaticon-man-walking-with-pet-dog-and-a-cord:before { content: "\f1a1"; }
+.flaticon-man-with-a-light-lamp:before { content: "\f1a2"; }
+.flaticon-man-with-a-suitcase:before { content: "\f1a3"; }
+.flaticon-mathematical-symbols-in-four-squares:before { content: "\f1a4"; }
+.flaticon-mathematics-on-class-whiteboard:before { content: "\f1a5"; }
+.flaticon-mathematics-symbols-board:before { content: "\f1a6"; }
+.flaticon-maths-teacher-class-teaching-on-whiteboard:before { content: "\f1a7"; }
+.flaticon-medal-with-star:before { content: "\f1a8"; }
+.flaticon-microscope-side-view:before { content: "\f1a9"; }
+.flaticon-monitor-screen-with-information-to-study:before { content: "\f1aa"; }
+.flaticon-movie-projection-to-class-students:before { content: "\f1ab"; }
+.flaticon-multimedia-projector:before { content: "\f1ac"; }
+.flaticon-multiplication-symbol:before { content: "\f1ad"; }
+.flaticon-musical-note-symbol:before { content: "\f1ae"; }
+.flaticon-newspaper-with-international-information-for-education:before { content: "\f1af"; }
+.flaticon-note-and-pencil:before { content: "\f1b0"; }
+.flaticon-open-blank-book-pages:before { content: "\f1b1"; }
+.flaticon-open-book-top-view:before { content: "\f1b2"; }
+.flaticon-open-class-door:before { content: "\f1b3"; }
+.flaticon-open-class-door-with-student-in-different-attitudes-and-the-teacher-tired-and-resigned-out-with-head-down:before { content: "\f1b4"; }
+.flaticon-owl-sage-symbol:before { content: "\f1b5"; }
+.flaticon-paper-sheets-with-text-lines-and-a-pen-at-right-side-from-top-view:before { content: "\f1b6"; }
+.flaticon-paperclip-with-text-lines:before { content: "\f1b7"; }
+.flaticon-parent-and-kid:before { content: "\f1b8"; }
+.flaticon-pen-pencil-an-feather:before { content: "\f1b9"; }
+.flaticon-pen-point-school-tool:before { content: "\f1ba"; }
+.flaticon-pencil-and-ruler-cross-of-school-materials:before { content: "\f1bb"; }
+.flaticon-pens-pencil-and-ruler:before { content: "\f1bc"; }
+.flaticon-person-giving-a-lecture-for-big-auditory:before { content: "\f1bd"; }
+.flaticon-person-on-whiteboard:before { content: "\f1be"; }
+.flaticon-physics-class:before { content: "\f1bf"; }
+.flaticon-pie-chart-divided-in-three-equal-sections:before { content: "\f1c0"; }
+.flaticon-plant-on-laptop-screen:before { content: "\f1c1"; }
+.flaticon-play-button:before { content: "\f1c2"; }
+.flaticon-playground:before { content: "\f1c3"; }
+.flaticon-portfolio-sign-on-laptop-screen:before { content: "\f1c4"; }
+.flaticon-professor-or-student-sleeping-on-his-desk-with-books-stack:before { content: "\f1c5"; }
+.flaticon-professor-walking-arriving-to-his-desk-on-time-for-the-class:before { content: "\f1c6"; }
+.flaticon-professor-with-clipboard:before { content: "\f1c7"; }
+.flaticon-professor-with-clipboard-1:before { content: "\f1c8"; }
+.flaticon-professor-with-clipboard-2:before { content: "\f1c9"; }
+.flaticon-professor-with-economy-graphs-on-a-clipboard:before { content: "\f1ca"; }
+.flaticon-professor-with-eyeglasses-and-beard:before { content: "\f1cb"; }
+.flaticon-projector-screen-tool:before { content: "\f1cc"; }
+.flaticon-puzzle-black-piece-shape:before { content: "\f1cd"; }
+.flaticon-question-class-note-symbol:before { content: "\f1ce"; }
+.flaticon-question-sign-on-person-head:before { content: "\f1cf"; }
+.flaticon-quiz-on-computer-with-question-signs-around:before { content: "\f1d0"; }
+.flaticon-rebel-student-standing-on-a-chair:before { content: "\f1d1"; }
+.flaticon-ruler-school-tool:before { content: "\f1d2"; }
+.flaticon-rulers-school-materials:before { content: "\f1d3"; }
+.flaticon-school-ascending-line-graphic-with-materials-on-lower-area:before { content: "\f1d4"; }
+.flaticon-school-bell:before { content: "\f1d5"; }
+.flaticon-school-bus-front-with-passengers:before { content: "\f1d6"; }
+.flaticon-school-call-phone-reception:before { content: "\f1d7"; }
+.flaticon-school-class-library-with-books:before { content: "\f1d8"; }
+.flaticon-school-class-table-with-materials:before { content: "\f1d9"; }
+.flaticon-school-director-giving-graduation-certification-to-one-student:before { content: "\f1da"; }
+.flaticon-school-student-chair-side-view:before { content: "\f1db"; }
+.flaticon-school-teacher-table:before { content: "\f1dc"; }
+.flaticon-science-symbols-on-computer-screen:before { content: "\f1dd"; }
+.flaticon-science-text-book:before { content: "\f1de"; }
+.flaticon-screen-with-text-lines:before { content: "\f1df"; }
+.flaticon-sms-letter-envelope-interface-symbol:before { content: "\f1e0"; }
+.flaticon-soccer-ball:before { content: "\f1e1"; }
+.flaticon-soccer-cup-with-ball:before { content: "\f1e2"; }
+.flaticon-squares-graphic:before { content: "\f1e3"; }
+.flaticon-stopwatch-tool-to-control-test-time:before { content: "\f1e4"; }
+.flaticon-student-boy-sitting-behind-a-table-with-books-stack-at-his-side:before { content: "\f1e5"; }
+.flaticon-student-boy-sitting-studying-with-a-computer-on-a-table:before { content: "\f1e6"; }
+.flaticon-student-boy-with-creative-idea:before { content: "\f1e7"; }
+.flaticon-student-in-class-with-a-book:before { content: "\f1e8"; }
+.flaticon-student-in-the-library:before { content: "\f1e9"; }
+.flaticon-student-making-calculations-on-whiteboard:before { content: "\f1ea"; }
+.flaticon-student-on-chair-from-side-view:before { content: "\f1eb"; }
+.flaticon-student-on-computer:before { content: "\f1ec"; }
+.flaticon-student-on-piano-in-music-class-from-side-view:before { content: "\f1ed"; }
+.flaticon-student-reading:before { content: "\f1ee"; }
+.flaticon-student-reading-a-book-drinking-tea:before { content: "\f1ef"; }
+.flaticon-student-reading-educational-book-sitting-on-a-chair-with-desk-from-side-view:before { content: "\f1f0"; }
+.flaticon-student-smoking:before { content: "\f1f1"; }
+.flaticon-student-smoking-at-class-door:before { content: "\f1f2"; }
+.flaticon-student-smoking-before-entering-to-the-class:before { content: "\f1f3"; }
+.flaticon-student-standing-with-his-portfolio-at-one-side:before { content: "\f1f4"; }
+.flaticon-student-studying-on-his-desk-with-a-lamp-and-a-book:before { content: "\f1f5"; }
+.flaticon-student-with-doubts-on-class:before { content: "\f1f6"; }
+.flaticon-student-writing-on-his-desk:before { content: "\f1f7"; }
+.flaticon-students-and-teacher-in-class:before { content: "\f1f8"; }
+.flaticon-students-class-auditory:before { content: "\f1f9"; }
+.flaticon-students-couple:before { content: "\f1fa"; }
+.flaticon-students-couple-full-body-view:before { content: "\f1fb"; }
+.flaticon-students-crossing-street-with-a-traffic-guard:before { content: "\f1fc"; }
+.flaticon-students-on-class:before { content: "\f1fd"; }
+.flaticon-students-reading-sitting-in-a-library:before { content: "\f1fe"; }
+.flaticon-students-studying-on-computers:before { content: "\f1ff"; }
+.flaticon-students-talking:before { content: "\f200"; }
+.flaticon-students-talking-on-a-table:before { content: "\f201"; }
+.flaticon-students-teacher-and-blackboard:before { content: "\f202"; }
+.flaticon-study-notes:before { content: "\f203"; }
+.flaticon-swimming-student-on-sports-class:before { content: "\f204"; }
+.flaticon-teacher-and-student-side-by-side-one-sitting-the-other-standing:before { content: "\f205"; }
+.flaticon-teacher-class-desktop-with-books-stack-earth-globe-and-sand-clock:before { content: "\f206"; }
+.flaticon-teacher-lecture-in-front-an-auditory:before { content: "\f207"; }
+.flaticon-teacher-on-lecture:before { content: "\f208"; }
+.flaticon-teacher-photocopying-text-material-for-class:before { content: "\f209"; }
+.flaticon-teacher-pointing-blackboard:before { content: "\f20a"; }
+.flaticon-teacher-question-to-the-class:before { content: "\f20b"; }
+.flaticon-teacher-reading-a-book-and-drinking-tea:before { content: "\f20c"; }
+.flaticon-teacher-reading-a-book-sitting-behind-his-desk:before { content: "\f20d"; }
+.flaticon-teacher-reading-sitting-on-his-desktop-with-an-apple-on-his-right:before { content: "\f20e"; }
+.flaticon-teacher-showing-curve-line-on-whiteboard:before { content: "\f20f"; }
+.flaticon-teacher-sitting-on-the-class-table-reading-a-book-at-the-end-of-the-class:before { content: "\f210"; }
+.flaticon-teacher-standing-with-suitcase-and-calculator-close-to-the-door:before { content: "\f211"; }
+.flaticon-teacher-talking-to-a-group:before { content: "\f212"; }
+.flaticon-teacher-teaching-mathematics:before { content: "\f213"; }
+.flaticon-teacher-teaching-online-on-laptop-screen:before { content: "\f214"; }
+.flaticon-teacher-with-phone:before { content: "\f215"; }
+.flaticon-teacher-woman-with-little-boy:before { content: "\f216"; }
+.flaticon-test-tube-and-flask-for-chemistry-class:before { content: "\f217"; }
+.flaticon-text-book-opened-from-top-view:before { content: "\f218"; }
+.flaticon-textile-screen:before { content: "\f219"; }
+.flaticon-touching-ipad-screen-with-educative-information:before { content: "\f21a"; }
+.flaticon-train-on-rails:before { content: "\f21b"; }
+.flaticon-tree-brain-conceptual-symbol:before { content: "\f21c"; }
+.flaticon-triangles-chart:before { content: "\f21d"; }
+.flaticon-two-heads-with-information-transference:before { content: "\f21e"; }
+.flaticon-two-males-holding-a-computer:before { content: "\f21f"; }
+.flaticon-whistle:before { content: "\f220"; }
+.flaticon-whiteboard-with-graphics:before { content: "\f221"; }
+.flaticon-winner-jumping-on-podium-with-medal-of-number-one:before { content: "\f222"; }
+.flaticon-winner-with-trophy:before { content: "\f223"; }
+.flaticon-winners-students-on-podium:before { content: "\f224"; }
+.flaticon-woman-with-kids:before { content: "\f225"; }
+.flaticon-woman-with-microphone:before { content: "\f226"; }
+.flaticon-writing-with-a-feather-on-a-book:before { content: "\f227"; }
+.flaticon-young-teacher-smoking-on-class-desktop:before { content: "\f228"; }
+.flaticon-zoom-interface-symbol-variant:before { content: "\f229"; }
+.flaticon-zoom-or-search-tool-on-graduate-cap-symbol:before { content: "\f22a"; }
+    
+    $font-Flaticon-3d-bars-graphic: "\f100";
+    $font-Flaticon-abacus: "\f101";
+    $font-Flaticon-abc-letters-on-paper-interface-symbol: "\f102";
+    $font-Flaticon-abc-letters-on-paper-sheet-with-a-pencil-interface-symbol: "\f103";
+    $font-Flaticon-arrows-chart: "\f104";
+    $font-Flaticon-arrows-graphic: "\f105";
+    $font-Flaticon-ascending-arrow-line-graphic: "\f106";
+    $font-Flaticon-backpack-and-abacus: "\f107";
+    $font-Flaticon-backpack-variant-design-like-a-portfolio: "\f108";
+    $font-Flaticon-bald-professors-talking: "\f109";
+    $font-Flaticon-bars-graphic: "\f10a";
+    $font-Flaticon-bars-graphic-1: "\f10b";
+    $font-Flaticon-bars-graphic-for-class-education: "\f10c";
+    $font-Flaticon-basic-mathematics: "\f10d";
+    $font-Flaticon-basketball-basket-side-view-for-sport-school-class: "\f10e";
+    $font-Flaticon-big-group-of-small-students-with-giant-professor-in-front-of-the-class-talking: "\f10f";
+    $font-Flaticon-black-graduation-cap-tool-of-university-student-for-head: "\f110";
+    $font-Flaticon-book-and-cd-learning-tools: "\f111";
+    $font-Flaticon-book-and-earth-grid-on-top: "\f112";
+    $font-Flaticon-book-and-mathematics-materials: "\f113";
+    $font-Flaticon-book-and-pen: "\f114";
+    $font-Flaticon-book-and-test-tube-with-supporter: "\f115";
+    $font-Flaticon-book-from-top-view: "\f116";
+    $font-Flaticon-book-in-square: "\f117";
+    $font-Flaticon-book-with-marker: "\f118";
+    $font-Flaticon-books: "\f119";
+    $font-Flaticon-books-and-apple-on-top: "\f11a";
+    $font-Flaticon-books-and-clock-with-alarm: "\f11b";
+    $font-Flaticon-books-and-sand-clock: "\f11c";
+    $font-Flaticon-books-for-study: "\f11d";
+    $font-Flaticon-boy-and-girl-students: "\f11e";
+    $font-Flaticon-boy-on-computer: "\f11f";
+    $font-Flaticon-boy-reading-for-the-class: "\f120";
+    $font-Flaticon-boy-reading-study-book-to-learn-the-lesson-for-next-day-class: "\f121";
+    $font-Flaticon-boy-standing-in-a-library-with-books-stack: "\f122";
+    $font-Flaticon-briefcase-and-tools-for-school: "\f123";
+    $font-Flaticon-browser-on-laptop-screen: "\f124";
+    $font-Flaticon-calculation-operation-plus-sign: "\f125";
+    $font-Flaticon-calculation-operations-minus-sign: "\f126";
+    $font-Flaticon-calculator: "\f127";
+    $font-Flaticon-calendar-variant-symbol: "\f128";
+    $font-Flaticon-cd-circles: "\f129";
+    $font-Flaticon-chemistry-book-opened-with-hexagonal-signs: "\f12a";
+    $font-Flaticon-chemistry-class-flask-with-liquid-for-experimentation: "\f12b";
+    $font-Flaticon-chemistry-class-instructions: "\f12c";
+    $font-Flaticon-chemistry-educational-book: "\f12d";
+    $font-Flaticon-circular-alarm-clock-tool: "\f12e";
+    $font-Flaticon-circular-chart: "\f12f";
+    $font-Flaticon-circular-chart-1: "\f130";
+    $font-Flaticon-circular-clock-tool: "\f131";
+    $font-Flaticon-circular-graphic: "\f132";
+    $font-Flaticon-circular-graphic-with-quarter-portion: "\f133";
+    $font-Flaticon-circular-simple-graphic-symbol: "\f134";
+    $font-Flaticon-class-blackboard-with-eraser: "\f135";
+    $font-Flaticon-class-desk-of-teacher-with-a-lamp-and-books-stacks: "\f136";
+    $font-Flaticon-class-group: "\f137";
+    $font-Flaticon-class-open-door: "\f138";
+    $font-Flaticon-class-whiteboard: "\f139";
+    $font-Flaticon-classroom-open-door-and-a-wall-clock-behind: "\f13a";
+    $font-Flaticon-classroom-with-students-group-and-the-teacher: "\f13b";
+    $font-Flaticon-colors-palette: "\f13c";
+    $font-Flaticon-compass-and-ruler: "\f13d";
+    $font-Flaticon-computer-and-books-studying-tools: "\f13e";
+    $font-Flaticon-computer-class-room: "\f13f";
+    $font-Flaticon-computer-mouse-tool: "\f140";
+    $font-Flaticon-computer-music-education: "\f141";
+    $font-Flaticon-computer-with-floating-letters-signs: "\f142";
+    $font-Flaticon-computer-with-graduate-cap-on-screen: "\f143";
+    $font-Flaticon-connected-students-reading-books: "\f144";
+    $font-Flaticon-descendant-graphic: "\f145";
+    $font-Flaticon-descending-graphic-chart-line-interface-symbol: "\f146";
+    $font-Flaticon-diploma-roll: "\f147";
+    $font-Flaticon-earth-globe-with-graduation-cap-on-top: "\f148";
+    $font-Flaticon-earth-globe-with-graduation-hat: "\f149";
+    $font-Flaticon-education-about-light: "\f14a";
+    $font-Flaticon-education-bars-chart: "\f14b";
+    $font-Flaticon-education-books-and-graduation-cap-on-top: "\f14c";
+    $font-Flaticon-education-certificate: "\f14d";
+    $font-Flaticon-education-certificate-1: "\f14e";
+    $font-Flaticon-education-certificate-2: "\f14f";
+    $font-Flaticon-education-certificate-3: "\f150";
+    $font-Flaticon-education-certificate-with-letters-cpe-and-a-ribbon: "\f151";
+    $font-Flaticon-education-chart: "\f152";
+    $font-Flaticon-education-chart-1: "\f153";
+    $font-Flaticon-education-chart-with-horizontal-and-vertical-axes: "\f154";
+    $font-Flaticon-education-chart-with-squares: "\f155";
+    $font-Flaticon-education-graphic: "\f156";
+    $font-Flaticon-education-is-power-words-on-whiteboard: "\f157";
+    $font-Flaticon-educational-bars-graphic: "\f158";
+    $font-Flaticon-educational-book-and-apple-for-the-teacher: "\f159";
+    $font-Flaticon-educational-earth-globe: "\f15a";
+    $font-Flaticon-educational-graphic: "\f15b";
+    $font-Flaticon-educational-laptop-with-bars-graphic-on-screen: "\f15c";
+    $font-Flaticon-educational-line-graphic: "\f15d";
+    $font-Flaticon-educative-academy-buildings: "\f15e";
+    $font-Flaticon-educative-books: "\f15f";
+    $font-Flaticon-educative-books-and-microscope-on-top: "\f160";
+    $font-Flaticon-educative-chart: "\f161";
+    $font-Flaticon-envelope-back-view-outline: "\f162";
+    $font-Flaticon-equal-sign: "\f163";
+    $font-Flaticon-eraser-tool-for-school: "\f164";
+    $font-Flaticon-f-plus-school-rating-paper-interface-symbol: "\f165";
+    $font-Flaticon-fce-education-certificate: "\f166";
+    $font-Flaticon-female-and-male-graduates-couple: "\f167";
+    $font-Flaticon-female-instructor-giving-a-lecture-standing-at-the-side-of-a-screen: "\f168";
+    $font-Flaticon-female-professor-of-economy-with-bars-stocks-graphic-on-clipboard: "\f169";
+    $font-Flaticon-female-professor-reading-a-book: "\f16a";
+    $font-Flaticon-female-professor-with-eyeglasses-and-economy-circular-graphic-on-a-clipboard: "\f16b";
+    $font-Flaticon-female-student-standing-reading-text-paper-sheet: "\f16c";
+    $font-Flaticon-female-student-with-portfolio-bag-at-her-side: "\f16d";
+    $font-Flaticon-female-teacher-reading-with-eyeglasses: "\f16e";
+    $font-Flaticon-female-university-graduate-with-cap-on-head-and-eyeglasses: "\f16f";
+    $font-Flaticon-gears-in-bald-head-side-view: "\f170";
+    $font-Flaticon-geography-teacher-teaching: "\f171";
+    $font-Flaticon-geography-teacher-with-planet-globe: "\f172";
+    $font-Flaticon-girl-reading-a-book-for-class: "\f173";
+    $font-Flaticon-girl-studying-on-a-laptop: "\f174";
+    $font-Flaticon-girl-with-ponytails: "\f175";
+    $font-Flaticon-graduate: "\f176";
+    $font-Flaticon-graduate-celebrating-with-the-diploma-in-one-hand-and-the-cap-in-the-other: "\f177";
+    $font-Flaticon-graduate-on-geography: "\f178";
+    $font-Flaticon-graduate-receiving-his-diploma: "\f179";
+    $font-Flaticon-graduate-showing-his-diploma: "\f17a";
+    $font-Flaticon-graduate-with-cap: "\f17b";
+    $font-Flaticon-graduation-cap: "\f17c";
+    $font-Flaticon-graduation-cap-and-diploma-with-a-mouse: "\f17d";
+    $font-Flaticon-graduation-cap-in-a-square: "\f17e";
+    $font-Flaticon-graduation-cap-in-a-square-1: "\f17f";
+    $font-Flaticon-graduation-cap-on-a-book-in-vertical-position: "\f180";
+    $font-Flaticon-graduation-cap-silhouette: "\f181";
+    $font-Flaticon-graduation-cap-silhouette-in-a-square: "\f182";
+    $font-Flaticon-graduation-hat: "\f183";
+    $font-Flaticon-graduation-hat-and-diploma: "\f184";
+    $font-Flaticon-graduation-idea-bulb-and-cap: "\f185";
+    $font-Flaticon-graduation-on-history: "\f186";
+    $font-Flaticon-graduation-student-cap: "\f187";
+    $font-Flaticon-grammar-class-teacher-teaching-pointing-whiteboard-text-lines: "\f188";
+    $font-Flaticon-graphic-educative-tool: "\f189";
+    $font-Flaticon-group-of-teacher-in-front-of-students-group: "\f18a";
+    $font-Flaticon-hand-pointing-up: "\f18b";
+    $font-Flaticon-hanging-whiteboard: "\f18c";
+    $font-Flaticon-head-side-view-black-silhouette-of-male-bald-shape: "\f18d";
+    $font-Flaticon-head-with-gears-education-interface-symbol: "\f18e";
+    $font-Flaticon-hierarchical-graphic: "\f18f";
+    $font-Flaticon-horizontal-bars-graphic: "\f190";
+    $font-Flaticon-instructor-giving-a-lecture-with-circular-graphic-on-screen: "\f191";
+    $font-Flaticon-instructor-lecture-with-sceen-projection-tool: "\f192";
+    $font-Flaticon-ipad-in-student-hand: "\f193";
+    $font-Flaticon-laptop-with-maths-class: "\f194";
+    $font-Flaticon-laptop-with-messages: "\f195";
+    $font-Flaticon-laptop-with-play-button-on-screen: "\f196";
+    $font-Flaticon-laptop-with-text-on-screen: "\f197";
+    $font-Flaticon-letters-education-symbol: "\f198";
+    $font-Flaticon-library-full-of-books-one-trophy-and-one-apple: "\f199";
+    $font-Flaticon-light-bulb: "\f19a";
+    $font-Flaticon-light-lamp-and-book-on-a-desk-for-study: "\f19b";
+    $font-Flaticon-lightbulb-creative-symbol: "\f19c";
+    $font-Flaticon-magnifier-on-laptop-screen: "\f19d";
+    $font-Flaticon-male-student-reading: "\f19e";
+    $font-Flaticon-man-and-book: "\f19f";
+    $font-Flaticon-man-answering-phone-call: "\f1a0";
+    $font-Flaticon-man-walking-with-pet-dog-and-a-cord: "\f1a1";
+    $font-Flaticon-man-with-a-light-lamp: "\f1a2";
+    $font-Flaticon-man-with-a-suitcase: "\f1a3";
+    $font-Flaticon-mathematical-symbols-in-four-squares: "\f1a4";
+    $font-Flaticon-mathematics-on-class-whiteboard: "\f1a5";
+    $font-Flaticon-mathematics-symbols-board: "\f1a6";
+    $font-Flaticon-maths-teacher-class-teaching-on-whiteboard: "\f1a7";
+    $font-Flaticon-medal-with-star: "\f1a8";
+    $font-Flaticon-microscope-side-view: "\f1a9";
+    $font-Flaticon-monitor-screen-with-information-to-study: "\f1aa";
+    $font-Flaticon-movie-projection-to-class-students: "\f1ab";
+    $font-Flaticon-multimedia-projector: "\f1ac";
+    $font-Flaticon-multiplication-symbol: "\f1ad";
+    $font-Flaticon-musical-note-symbol: "\f1ae";
+    $font-Flaticon-newspaper-with-international-information-for-education: "\f1af";
+    $font-Flaticon-note-and-pencil: "\f1b0";
+    $font-Flaticon-open-blank-book-pages: "\f1b1";
+    $font-Flaticon-open-book-top-view: "\f1b2";
+    $font-Flaticon-open-class-door: "\f1b3";
+    $font-Flaticon-open-class-door-with-student-in-different-attitudes-and-the-teacher-tired-and-resigned-out-with-head-down: "\f1b4";
+    $font-Flaticon-owl-sage-symbol: "\f1b5";
+    $font-Flaticon-paper-sheets-with-text-lines-and-a-pen-at-right-side-from-top-view: "\f1b6";
+    $font-Flaticon-paperclip-with-text-lines: "\f1b7";
+    $font-Flaticon-parent-and-kid: "\f1b8";
+    $font-Flaticon-pen-pencil-an-feather: "\f1b9";
+    $font-Flaticon-pen-point-school-tool: "\f1ba";
+    $font-Flaticon-pencil-and-ruler-cross-of-school-materials: "\f1bb";
+    $font-Flaticon-pens-pencil-and-ruler: "\f1bc";
+    $font-Flaticon-person-giving-a-lecture-for-big-auditory: "\f1bd";
+    $font-Flaticon-person-on-whiteboard: "\f1be";
+    $font-Flaticon-physics-class: "\f1bf";
+    $font-Flaticon-pie-chart-divided-in-three-equal-sections: "\f1c0";
+    $font-Flaticon-plant-on-laptop-screen: "\f1c1";
+    $font-Flaticon-play-button: "\f1c2";
+    $font-Flaticon-playground: "\f1c3";
+    $font-Flaticon-portfolio-sign-on-laptop-screen: "\f1c4";
+    $font-Flaticon-professor-or-student-sleeping-on-his-desk-with-books-stack: "\f1c5";
+    $font-Flaticon-professor-walking-arriving-to-his-desk-on-time-for-the-class: "\f1c6";
+    $font-Flaticon-professor-with-clipboard: "\f1c7";
+    $font-Flaticon-professor-with-clipboard-1: "\f1c8";
+    $font-Flaticon-professor-with-clipboard-2: "\f1c9";
+    $font-Flaticon-professor-with-economy-graphs-on-a-clipboard: "\f1ca";
+    $font-Flaticon-professor-with-eyeglasses-and-beard: "\f1cb";
+    $font-Flaticon-projector-screen-tool: "\f1cc";
+    $font-Flaticon-puzzle-black-piece-shape: "\f1cd";
+    $font-Flaticon-question-class-note-symbol: "\f1ce";
+    $font-Flaticon-question-sign-on-person-head: "\f1cf";
+    $font-Flaticon-quiz-on-computer-with-question-signs-around: "\f1d0";
+    $font-Flaticon-rebel-student-standing-on-a-chair: "\f1d1";
+    $font-Flaticon-ruler-school-tool: "\f1d2";
+    $font-Flaticon-rulers-school-materials: "\f1d3";
+    $font-Flaticon-school-ascending-line-graphic-with-materials-on-lower-area: "\f1d4";
+    $font-Flaticon-school-bell: "\f1d5";
+    $font-Flaticon-school-bus-front-with-passengers: "\f1d6";
+    $font-Flaticon-school-call-phone-reception: "\f1d7";
+    $font-Flaticon-school-class-library-with-books: "\f1d8";
+    $font-Flaticon-school-class-table-with-materials: "\f1d9";
+    $font-Flaticon-school-director-giving-graduation-certification-to-one-student: "\f1da";
+    $font-Flaticon-school-student-chair-side-view: "\f1db";
+    $font-Flaticon-school-teacher-table: "\f1dc";
+    $font-Flaticon-science-symbols-on-computer-screen: "\f1dd";
+    $font-Flaticon-science-text-book: "\f1de";
+    $font-Flaticon-screen-with-text-lines: "\f1df";
+    $font-Flaticon-sms-letter-envelope-interface-symbol: "\f1e0";
+    $font-Flaticon-soccer-ball: "\f1e1";
+    $font-Flaticon-soccer-cup-with-ball: "\f1e2";
+    $font-Flaticon-squares-graphic: "\f1e3";
+    $font-Flaticon-stopwatch-tool-to-control-test-time: "\f1e4";
+    $font-Flaticon-student-boy-sitting-behind-a-table-with-books-stack-at-his-side: "\f1e5";
+    $font-Flaticon-student-boy-sitting-studying-with-a-computer-on-a-table: "\f1e6";
+    $font-Flaticon-student-boy-with-creative-idea: "\f1e7";
+    $font-Flaticon-student-in-class-with-a-book: "\f1e8";
+    $font-Flaticon-student-in-the-library: "\f1e9";
+    $font-Flaticon-student-making-calculations-on-whiteboard: "\f1ea";
+    $font-Flaticon-student-on-chair-from-side-view: "\f1eb";
+    $font-Flaticon-student-on-computer: "\f1ec";
+    $font-Flaticon-student-on-piano-in-music-class-from-side-view: "\f1ed";
+    $font-Flaticon-student-reading: "\f1ee";
+    $font-Flaticon-student-reading-a-book-drinking-tea: "\f1ef";
+    $font-Flaticon-student-reading-educational-book-sitting-on-a-chair-with-desk-from-side-view: "\f1f0";
+    $font-Flaticon-student-smoking: "\f1f1";
+    $font-Flaticon-student-smoking-at-class-door: "\f1f2";
+    $font-Flaticon-student-smoking-before-entering-to-the-class: "\f1f3";
+    $font-Flaticon-student-standing-with-his-portfolio-at-one-side: "\f1f4";
+    $font-Flaticon-student-studying-on-his-desk-with-a-lamp-and-a-book: "\f1f5";
+    $font-Flaticon-student-with-doubts-on-class: "\f1f6";
+    $font-Flaticon-student-writing-on-his-desk: "\f1f7";
+    $font-Flaticon-students-and-teacher-in-class: "\f1f8";
+    $font-Flaticon-students-class-auditory: "\f1f9";
+    $font-Flaticon-students-couple: "\f1fa";
+    $font-Flaticon-students-couple-full-body-view: "\f1fb";
+    $font-Flaticon-students-crossing-street-with-a-traffic-guard: "\f1fc";
+    $font-Flaticon-students-on-class: "\f1fd";
+    $font-Flaticon-students-reading-sitting-in-a-library: "\f1fe";
+    $font-Flaticon-students-studying-on-computers: "\f1ff";
+    $font-Flaticon-students-talking: "\f200";
+    $font-Flaticon-students-talking-on-a-table: "\f201";
+    $font-Flaticon-students-teacher-and-blackboard: "\f202";
+    $font-Flaticon-study-notes: "\f203";
+    $font-Flaticon-swimming-student-on-sports-class: "\f204";
+    $font-Flaticon-teacher-and-student-side-by-side-one-sitting-the-other-standing: "\f205";
+    $font-Flaticon-teacher-class-desktop-with-books-stack-earth-globe-and-sand-clock: "\f206";
+    $font-Flaticon-teacher-lecture-in-front-an-auditory: "\f207";
+    $font-Flaticon-teacher-on-lecture: "\f208";
+    $font-Flaticon-teacher-photocopying-text-material-for-class: "\f209";
+    $font-Flaticon-teacher-pointing-blackboard: "\f20a";
+    $font-Flaticon-teacher-question-to-the-class: "\f20b";
+    $font-Flaticon-teacher-reading-a-book-and-drinking-tea: "\f20c";
+    $font-Flaticon-teacher-reading-a-book-sitting-behind-his-desk: "\f20d";
+    $font-Flaticon-teacher-reading-sitting-on-his-desktop-with-an-apple-on-his-right: "\f20e";
+    $font-Flaticon-teacher-showing-curve-line-on-whiteboard: "\f20f";
+    $font-Flaticon-teacher-sitting-on-the-class-table-reading-a-book-at-the-end-of-the-class: "\f210";
+    $font-Flaticon-teacher-standing-with-suitcase-and-calculator-close-to-the-door: "\f211";
+    $font-Flaticon-teacher-talking-to-a-group: "\f212";
+    $font-Flaticon-teacher-teaching-mathematics: "\f213";
+    $font-Flaticon-teacher-teaching-online-on-laptop-screen: "\f214";
+    $font-Flaticon-teacher-with-phone: "\f215";
+    $font-Flaticon-teacher-woman-with-little-boy: "\f216";
+    $font-Flaticon-test-tube-and-flask-for-chemistry-class: "\f217";
+    $font-Flaticon-text-book-opened-from-top-view: "\f218";
+    $font-Flaticon-textile-screen: "\f219";
+    $font-Flaticon-touching-ipad-screen-with-educative-information: "\f21a";
+    $font-Flaticon-train-on-rails: "\f21b";
+    $font-Flaticon-tree-brain-conceptual-symbol: "\f21c";
+    $font-Flaticon-triangles-chart: "\f21d";
+    $font-Flaticon-two-heads-with-information-transference: "\f21e";
+    $font-Flaticon-two-males-holding-a-computer: "\f21f";
+    $font-Flaticon-whistle: "\f220";
+    $font-Flaticon-whiteboard-with-graphics: "\f221";
+    $font-Flaticon-winner-jumping-on-podium-with-medal-of-number-one: "\f222";
+    $font-Flaticon-winner-with-trophy: "\f223";
+    $font-Flaticon-winners-students-on-podium: "\f224";
+    $font-Flaticon-woman-with-kids: "\f225";
+    $font-Flaticon-woman-with-microphone: "\f226";
+    $font-Flaticon-writing-with-a-feather-on-a-book: "\f227";
+    $font-Flaticon-young-teacher-smoking-on-class-desktop: "\f228";
+    $font-Flaticon-zoom-interface-symbol-variant: "\f229";
+    $font-Flaticon-zoom-or-search-tool-on-graduate-cap-symbol: "\f22a";

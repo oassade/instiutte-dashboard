@@ -14,7 +14,8 @@ class LibraryController extends Controller
      */
     public function index()
     {
-        //
+        $libraries = Library::all();
+        return view("library")->with("libraries", $libraries);
     }
 
     /**
